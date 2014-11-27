@@ -4,7 +4,7 @@ echo -e -n "\e[31m"
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' =
 
 echo -e -n "\e[0m"
-echo -e "xXx WELCOME TO THE FEDORA MOVESPEED HACK 100% SAFE AND RELIABLE xXx"
+echo -e "xXx WELCOME TO THE UBUNTU MOVESPEED HACK 420% SAFE AND RELIABLE xXx"
 
 echo -e -n "\e[31m"
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' =
